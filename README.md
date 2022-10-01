@@ -1,5 +1,5 @@
 # symbol-face
-The project chance your symbol to emoji;
+The project change your symbol to emoji;
 
 ![image](https://user-images.githubusercontent.com/99321522/193422411-3460c509-bcb3-4e6d-be8f-f13ebb859b9f.png)
 
